@@ -10,7 +10,9 @@
 
 * :surfing_man: Je suis passioné par le surf, j'en fais depuis une dizaine d'année, j'aime aussi écouter de la musique, coder, et sortir avec mes potes
 
+## Mes compétences
 
+<i class="fa-brands fa-html5" color="red"></i>
 
 
 

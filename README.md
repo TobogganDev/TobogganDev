@@ -2,4 +2,4 @@
 
 (English version below :arrow_down:)
 
-Moi c'est [color=#2a9d8f] Thomas [/color]
+Moi c'est <font color=#2a9d8f>Thomas</font>

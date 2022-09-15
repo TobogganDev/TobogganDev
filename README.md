@@ -12,7 +12,14 @@
 
 ## Mes compétences
 
-<i class="fa-brands fa-html5" color="red"></i>
+<img src="img/html.svg" height="30">
+<img src="img/css.svg" height="30">
+<img src="img/js.svg" height="30">
+<img src="img/php.svg" height="30">
 
 
+
+## Contact 
+
+<a href="https://www.linkedin.com/in/thomas-doret-gaisset/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolasdegarrigues" height="30" width="40" /></a>
 

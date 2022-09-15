@@ -11,12 +11,12 @@
 * :surfing_man: Je suis passioné par le surf, j'en fais depuis une dizaine d'année, j'aime aussi écouter de la musique, coder, et sortir avec mes potes
 
 ## Mes compétences
-
-<img src="img/html.svg" height="30">
-<img src="img/css.svg" height="30">
-<img src="img/js.svg" height="30">
-<img src="img/php.svg" height="30">
-
+<div>
+    <img src="img/html.svg" height="30">
+    <img src="img/css.svg" height="30">
+    <img src="img/js.svg" height="30">
+    <img src="img/php.svg" height="30">
+</div>
 
 
 ## Contact 

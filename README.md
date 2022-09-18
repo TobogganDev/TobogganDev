@@ -20,10 +20,29 @@
     <img src="img/adobe.svg" height="30">
 </div>
 
+<hr>
+
+## <img src="img/uk_flag.svg" height="30">
 
 
+* :clipboard: I’m Thomas, I’m 18 and I’m in my second year at IIM Digital School in La Défense
+
+* :telescope: I’d like to be a full-stack developer
+
+* :surfing_man: I’m passionate about surfing, I’ve been surfing for about ten years, I also like to listen to music and code
+
+## My skills
+
+<div>
+    <img src="img/html.svg" height="30">
+    <img src="img/css.svg" height="30">
+    <img src="img/js.svg" height="30">
+    <img src="img/php.svg" height="30">
+    <img src="img/adobe.svg" height="30">
+</div>
 
 
+<hr>
 
 ## Contact 
 

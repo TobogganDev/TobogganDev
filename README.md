@@ -4,7 +4,7 @@
 
 
 
-* :clipboard: Moi c'est Thomas, j'ai 18 ans et je suis en 2ème année à l'IIM Digital School à La Défense
+* :clipboard: Moi c'est Thomas, j'ai 19 ans et je suis en 3ème année à l'IIM Digital School à La Défense
 
 * :telescope: J'aspire à être un développeur full-stack
 
@@ -25,7 +25,7 @@
 ## <img src="img/uk_flag.svg" height="30">
 
 
-* :clipboard: I’m Thomas, I’m 18 and I’m in my second year at IIM Digital School in La Défense
+* :clipboard: I’m Thomas, I’m 19 and I’m in my third year at IIM Digital School in La Défense
 
 * :telescope: I’d like to be a full-stack developer
 
